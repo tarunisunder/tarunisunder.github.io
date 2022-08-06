@@ -1,5 +1,7 @@
 
-# Taruni Sunder 
+# Taruni Sunder  
+
+![Taruni](./images/Taruni_GH_Profile.jpg)
  
 ## Education
 
