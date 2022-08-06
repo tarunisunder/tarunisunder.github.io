@@ -7,7 +7,7 @@ table {
     border-collapse: collapse;
 }
 table, th, td {
-   border: 0px solid black;
+   border: 0px solid white;
 }
 blockquote {
     border-left: solid blue;
