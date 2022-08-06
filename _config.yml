@@ -26,8 +26,10 @@ xdescription: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-xtwitter_username: jekyllrb
+xtwitter_username: tarunisunder
 github_username:  tarunisunder
+linkedin_username: tarunisunder
+instagram_username: taruniyoga
 
 # Build settings
 theme: minima

@@ -7,7 +7,7 @@ layout: home
 
 | | |
 |----|----|
-| ![Taruni](./assets/images/Taruni_GH_Profile.jpg) | I am a computer science graduate from PES University, Bangalore <br> and am currently pursuing my Master's degree in <br> Business Analytics at The University of Southern California. <br><br>  I enjoy working with data, generating visualizations and discovering actionable insights. <br><br> Additionally, I [practice Yoga](https://www.instagram.com/taruniyoga/?hl=en) and have a teaching certifcation. I also enjoy  reading and hiking. <br><br> ![Connect](./assets/images/linkedin-logo.png) [My Linkedin](https://www.linkedin.com/in/tarunisunder/)  
+| ![Taruni](./assets/images/Taruni_GH_Profile3.jpg) | I am a computer science graduate from PES University, Bangalore and am currently pursuing my Master's degree in <br> Business Analytics at The University of Southern California. <br><br>  I enjoy working with data, generating visualizations and discovering actionable insights. <br><br> Additionally, I [practice Yoga](https://www.instagram.com/taruniyoga/?hl=en) and have a teaching certifcation. I also enjoy  reading and hiking. <br><br> ![Connect](./assets/images/linkedin-logo.png) [My Linkedin](https://www.linkedin.com/in/tarunisunder/)  
  
 ## Education
 
