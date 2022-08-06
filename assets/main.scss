@@ -1,0 +1,21 @@
+---
+---
+
+@import "minima"; 
+
+table {
+    border-collapse : collapse;
+}
+
+table, thead, td, th {
+    border : 0px  hidden  transparent;
+}
+
+table thead {
+    visibility: collapse;
+}
+
+a.page-link,
+h2.footer-heading{
+    visibility: hidden;
+}

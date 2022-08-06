@@ -1,17 +1,22 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-## Taruni Sunder
+layout: home
+---
 
 | | |
 |----|----|
-| ![Taruni](./images/Taruni_GH_Profile.jpg) | I am a computer science graduate from PES University, Bangalore and am currently pursuing my Master's degree in Business Analytics at The University of Southern California. <br><br>  I enjoy working with data, generating visualizations and discovering actionable insights. <br><br> Additionally, I [practice Yoga](https://www.instagram.com/taruniyoga/?hl=en) and have a teaching certifcation. I also enjoy  reading and hiking. 
+| ![Taruni](./assets/images/Taruni_GH_Profile.jpg) | I am a computer science graduate from PES University, Bangalore <br> and am currently pursuing my Master's degree in <br> Business Analytics at The University of Southern California. <br><br>  I enjoy working with data, generating visualizations and discovering actionable insights. <br><br> Additionally, I [practice Yoga](https://www.instagram.com/taruniyoga/?hl=en) and have a teaching certifcation. I also enjoy  reading and hiking. <br><br> ![Connect](./assets/images/linkedin-logo.png) [My Linkedin](https://www.linkedin.com/in/tarunisunder/)  
  
 ## Education
 
-### University of Southern California, Marshall School of Business (Aug 2022 - Dec 2023) 
+### University of Southern California, Marshall School of Business, Los Angeles CA  
+* **Master of Science in Business Analytics (STEM)** (Aug 2022 - Dec 2023)
 
-* Master of Science in Business Analytics (STEM)  
 
-### PES University, Bangalore India <br> Bachelor of Technology in Computer Science Engineering ( Aug 2016- May 2020)
+### PES University, Bangalore India 
+* **Bachelor of Technology in Computer Science Engineering** (Aug 2016- May 2020)
 
 * _Specialization in Data Science_, Graduated First Class with Distinction with GPA 8.94
 
