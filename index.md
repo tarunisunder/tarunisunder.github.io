@@ -1,10 +1,8 @@
 
 
-# Taruni Sunder 
-
 | | |
 |----|----|
-| ![Taruni](./images/Taruni_GH_Profile.jpg)| I am a computer science graduate  currently pursuing my Master's degree in Business Analytics at The University of Southern California. I enjoy working with data, generating visualizations and actionable insights. Additionally, I [practice Yoga](https://www.instagram.com/taruniyoga/?hl=en) and have a teaching certifcation. I also enjoy  reading and hiking. 
+| ![Taruni](./images/Taruni_GH_Profile.jpg) | I am a computer science graduate from PES University, Bangalore and am currently pursuing my Master's degree in Business Analytics at The University of Southern California. </p><p>  I enjoy working with data, generating visualizations and discovering actionable insights. </p><p> Additionally, I [practice Yoga](https://www.instagram.com/taruniyoga/?hl=en) and have a teaching certifcation. I also enjoy  reading and hiking. 
  
 ## Education
 
